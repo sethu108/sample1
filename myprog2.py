@@ -1,0 +1,1 @@
+pring ("myprog2")
