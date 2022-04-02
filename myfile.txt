@@ -1,3 +1,4 @@
 this is an example
 this is where myfile is being modified
 further modification
+in staging
